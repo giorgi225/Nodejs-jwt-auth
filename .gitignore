@@ -1,0 +1,17 @@
+# Sensitive files
+.env
+
+node_modules/
+
+# Node.js logs and runtime data
+logs/
+*.log
+npm-debug.log*
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+
+# Compiled output
+/dist/
+/build/
